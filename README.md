@@ -15,7 +15,7 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 - Developed the **informational website** and **registration page** for *Reacciona2025*, an event hosted by COPARMEX and Tecnológico de Monterrey.
 - Implemented automated reminders for registered participants.
 - Showcased all event details, schedules, and resources in a user-friendly layout.
-- [View Repository](https://github.com/gilispa/reacciona2025-event) *(ajusta el link si creas un repo dedicado)*
+- [View Repository](https://github.com/sescudero19/Reacciona2025)
 
 ---
 
@@ -38,5 +38,5 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/gilberto-islas-palomino-766aa2361)
-- Email: gilberto.islas.palomino@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-islas-palomino-766aa2361)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gilberto.islas.palomino@gmail.com)
