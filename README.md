@@ -9,7 +9,7 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 ### Environmental Monitoring System
 - Awarded **3rd Place** at *ExpoIngenierías 2025 – Tecnológico de Monterrey, Campus Sonora Norte*.
 - Full-stack project: firmware, backend processing, database integration, and web-based dashboard for real-time monitoring.
-- [View Repository](https://github.com/gilispa/environmental-monitoring-system)
+- [View Repository](https://github.com/thuulk/IoT-Monitoring-System)
 
 ### Reacciona2025 Event Website
 - Developed the **informational website** and **registration page** for *Reacciona2025*, an event hosted by COPARMEX and Tecnológico de Monterrey.
