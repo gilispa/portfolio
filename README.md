@@ -17,6 +17,18 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 - Showcased all event details, schedules, and resources in a user-friendly layout.
 - [View Repository](https://github.com/sescudero19/Reacciona2025)
 
+### AI Finance Coach  
+**Personal finance tracking and AI-powered financial insights platform.**
+
+- Full-stack project with React frontend and FastAPI backend
+- Expense and income tracking with custom categories
+- Interactive analytics and visualizations
+- AI-powered financial advice focused on habits and micro-expenses
+
+**Repositories:**
+- [Backend API](https://github.com/gilispa/ai-finance-coach-backend)
+- [Frontend App](https://github.com/gilispa/ai-finance-coach-frontend)
+
 ---
 
 ## 💻 Technologies & Tools
@@ -24,6 +36,9 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 - **Web Development:** HTML, CSS, JavaScript, Node.js
 - **Databases & Automation:** MySQL, SQLite, n8n
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code
+- **Frontend:** React, Vite
+- **Backend:** FastAPI, SQLAlchemy
+- **AI Integration:** OpenAI API
 
 ---
 
