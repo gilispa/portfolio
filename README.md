@@ -31,18 +31,17 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 
 ---
 
-## 💻 Technologies & Tools
-- **Programming Languages:** Python, Java, C++
-- **Web Development:** HTML, CSS, JavaScript, Node.js
-- **Databases & Automation:** MySQL, SQLite, n8n
+## Technologies & Tools
+- **Programming Languages:** Python, Java, C++, JavaScript
+- **Databases & Automation:** PostgreSQL, MySQL, SQLite, n8n
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code
-- **Frontend:** React, Vite
+- **Frontend:** React, Vite, HTML, CSS
 - **Backend:** FastAPI, SQLAlchemy
 - **AI Integration:** OpenAI API
 
 ---
 
-## 📚 Topics & Skills
+## Topics & Skills
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Problem Solving
@@ -52,6 +51,6 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-islas-palomino-766aa2361)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gilberto.islas.palomino@gmail.com)
