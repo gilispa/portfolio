@@ -29,14 +29,23 @@ Welcome to my Portfolio! This repository contains a curated selection of my acad
 - [Backend API](https://github.com/gilispa/ai-finance-coach-backend)
 - [Frontend App](https://github.com/gilispa/ai-finance-coach-frontend)
 
+### CLAS Platform
+**Web platform for the Cluster Automotriz de Sonora (CLAS).**
+
+- Full-stack project with a React + Vite frontend and an Express + TypeScript backend
+- PostgreSQL database integration with Sequelize for business data management
+- Public company directory with protected administrative tools and role-based access control
+- Management features for companies, contacts, memberships, certifications, industries, processes, and related business data
+- [View Repository](https://github.com/turtlevlz/CLAS)
+
 ---
 
 ## Technologies & Tools
-- **Programming Languages:** Python, Java, C++, JavaScript
+- **Programming Languages:** Python, Java, C++, JavaScript, TypeScript, Elixir, Prolog
 - **Databases & Automation:** PostgreSQL, MySQL, SQLite, n8n
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code
-- **Frontend:** React, Vite, HTML, CSS
-- **Backend:** FastAPI, SQLAlchemy
+- **Frontend:** React, Vite, HTML, CSS, Tailwind CSS
+- **Backend:** FastAPI, Express.js, Node.js, SQLAlchemy, Sequelize
 - **AI Integration:** OpenAI API
 
 ---
